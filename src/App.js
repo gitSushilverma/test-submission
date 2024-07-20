@@ -5,7 +5,7 @@ function App() {
   const [data, setData] = useState(null);
 
   useEffect(() => {
-    fetch("https://test-submission-1.onrender.com/globe-data/globe-data")
+    fetch("https://test-submission-1.onrender.com/globe-data")
       .then((response) => response.json())
       .then((result) => {
         setData(result);
