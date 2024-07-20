@@ -1,0 +1,50 @@
+{
+  "fixedata": [
+    {
+      "title": "Income Proof",
+      "message": "For salaried individuals: Salary slips of the last 3 months, Form 16, and/or Income Tax Returns (ITR)\nFor self-employed individuals: ITR, Profit & Loss account, Balance Sheet, and/or Business Proof"
+    }
+  ],
+  "firstCircle": [
+    {
+      "title": "Photographs",
+      "message": "Passport size photographs of the applicant and co-applicant (if any)."
+    },
+    {
+      "title": "Property Documents",
+      "message": "If applicable as collateral, documents related to the property being pledged."
+    },
+    {
+      "title": "Bank Statements",
+      "message": "For the last 6 months (both applicant and co-applicant)."
+    },
+    {
+      "title": "Academic Records",
+      "message": "Mark sheets and certificates of qualifying exams.\nAdmission letter."
+    }
+  ],
+  "secondCircle": [
+    {
+      "title": "Identity Proof",
+      "message": "Any one of the following:\nPassport\nAadhaar\nVoter ID\nDriving license"
+    },
+    {
+      "title": "Additional Documents",
+      "message": "PAN card (Permanent Account Number)"
+    },
+    {
+      "title": "Residence Proof",
+      "message": "Any one of the following:\nPassport\nAadhaar\nVoter ID\nDriving license"
+    },
+    {
+      "title": "Application Form",
+      "message": "Completed and signed application form"
+    }
+  ],
+  "thirdCircle": [
+    {
+      "title": "Guarantor Form",
+      "message": "If required, duly filled and signed."
+    }
+  ]
+}
